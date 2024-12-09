@@ -12,3 +12,5 @@ Our mission is to contribute to sustainable crop production and global food secu
 Our research program is 
 
 ## Research Projects
+1. Maize breeding for water-logged stress
+2. High-throughput phenotyping
