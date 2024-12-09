@@ -1,5 +1,10 @@
 ---
 title: "Maize Breeding and Genomics Lab"
+format:
+  html:
+    grid: 
+      body-width: 950px
+      margin-width: 0px
 ---
 ## Welcome to the Maize Breeding and Genomics Lab at University of Delaware
 Improving maize through integrated genomics and phenomics approach. 
