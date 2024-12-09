@@ -1,9 +1,14 @@
 ---
-title: "About"
+title: "About Us"
+format:
+  html: 
+    theme: sketchy
 ---
 
-About this site
+## Overview
+Our mission is to contribute to sustainable crop production and global food security. 
 
-```{r}
-1 + 1
-```
+## What we do
+Our research program is 
+
+## Research Projects

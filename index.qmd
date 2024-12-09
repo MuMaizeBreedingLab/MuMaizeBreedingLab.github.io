@@ -1,11 +1,12 @@
 ---
-title: "MuMaizeBreedingLab.github.io"
+title: "Maize Breeding and Genomics Lab"
+format:
+  html: 
+    theme: sketchy
 ---
+## Welcome to the Maize Breeding and Genomics Lab at University of Delaware
+Improving maize through integrated genomics and phenomics approach. 
+![corn field](/images/corn_field.jpg)
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
