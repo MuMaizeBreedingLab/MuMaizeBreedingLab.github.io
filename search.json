@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Maize Breeding and Genomics Lab",
-    "section": "",
-    "text": "Improving maize through integrated genomics and phenomics approach."
+    "objectID": "join.html#are-you-interested-in-graduate-studies",
+    "href": "join.html#are-you-interested-in-graduate-studies",
+    "title": "Join Our Lab!",
+    "section": "Are you interested in graduate studies?",
+    "text": "Are you interested in graduate studies?"
   },
   {
-    "objectID": "index.html#welcome-to-the-maize-breeding-and-genomics-lab-at-university-of-delaware",
-    "href": "index.html#welcome-to-the-maize-breeding-and-genomics-lab-at-university-of-delaware",
-    "title": "Maize Breeding and Genomics Lab",
-    "section": "",
-    "text": "Improving maize through integrated genomics and phenomics approach."
+    "objectID": "join.html#are-you-an-undegraduate-looking-for-research-experience",
+    "href": "join.html#are-you-an-undegraduate-looking-for-research-experience",
+    "title": "Join Our Lab!",
+    "section": "Are you an undegraduate looking for research experience?",
+    "text": "Are you an undegraduate looking for research experience?"
   },
   {
     "objectID": "People.html",
@@ -32,7 +32,7 @@
     "href": "People.html#current-lab-members",
     "title": "People",
     "section": "Current Lab Members",
-    "text": "Current Lab Members\nTeclemariam (Tecle) Weldekidan, Research Scientist Jeonghwa Kim, Post Doc Shreejana KC, graduate student (PhD) Manoj Subedi, graduate student (PhD) Joseph Romano, undegraduate student Tyler Sosnoski, undergraduate student"
+    "text": "Current Lab Members\n\nTeclemariam (Tecle) Weldekidan, Research Scientist\nJeonghwa Kim, Post Doc\nShreejana KC, graduate student (PhD)\nManoj Subedi, graduate student (PhD)\nJoseph Romano, undegraduate student\nTyler Sosnoski, undergraduate student"
   },
   {
     "objectID": "about.html",
@@ -60,20 +60,20 @@
     "href": "about.html#research-projects",
     "title": "About",
     "section": "Research Projects",
-    "text": "Research Projects"
+    "text": "Research Projects\n\nMaize breeding for water-logged stress\nHigh-throughput phenotyping"
   },
   {
-    "objectID": "Join us.html#are-you-interested-in-graduate-studies",
-    "href": "Join us.html#are-you-interested-in-graduate-studies",
-    "title": "Join Our Lab!",
-    "section": "Are you interested in graduate studies?",
-    "text": "Are you interested in graduate studies?"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maize Breeding and Genomics Lab",
+    "section": "",
+    "text": "Improving maize through integrated genomics and phenomics approach."
   },
   {
-    "objectID": "Join us.html#are-you-an-undegraduate-looking-for-research-experience",
-    "href": "Join us.html#are-you-an-undegraduate-looking-for-research-experience",
-    "title": "Join Our Lab!",
-    "section": "Are you an undegraduate looking for research experience?",
-    "text": "Are you an undegraduate looking for research experience?"
+    "objectID": "index.html#welcome-to-the-maize-breeding-and-genomics-lab-at-university-of-delaware",
+    "href": "index.html#welcome-to-the-maize-breeding-and-genomics-lab-at-university-of-delaware",
+    "title": "Maize Breeding and Genomics Lab",
+    "section": "",
+    "text": "Improving maize through integrated genomics and phenomics approach."
   }
 ]
