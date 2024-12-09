@@ -4,8 +4,9 @@ format:
   html:
     grid: 
       body-width: 950px
+      sidebar-width: 200px
       margin-width: 0px
 ---
 ## Welcome to the Maize Breeding and Genomics Lab at University of Delaware
 Improving maize through integrated genomics and phenomics approach. 
-![corn field](/images/corn_field.jpg)
+![lab](/images/lab.jpg)
