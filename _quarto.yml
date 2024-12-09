@@ -5,9 +5,10 @@ project:
 website:
   title: "Maize Breeding and Genomics Lab"
   site-url: https://MuMaizeBreedingLab.github.io/
-  favicon: images/icon.png
+  favicon: images/lab_icon.png
   
   navbar:
+    logo: images/lab_icon.png
     right:
     - text: "About"
       href: about.qmd
