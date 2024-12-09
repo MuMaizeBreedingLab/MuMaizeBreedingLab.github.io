@@ -7,16 +7,14 @@ website:
   site-url: https://MuMaizeBreedingLab.github.io/
   navbar:
     right:
-      - text: "Home"
-        href: index.qmd
-      - text: "About""
-        href: about.qmd
-      - text: "People"
-        href: People.qmd
-      - text: "Join Us!"
-        href: Join Us.qmd
-      - text: "Publications"
-        href: Publications.qmd
+    - text: "About""
+      href: about.qmd
+    - text: "People"
+      href: People.qmd
+    - text: "Join Our Lab!"
+      href: Join Us.qmd
+    - text: "Publications"
+      href: Publications.qmd
 
 format:
   html:
