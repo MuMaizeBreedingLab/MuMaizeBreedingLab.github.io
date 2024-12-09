@@ -1,8 +1,5 @@
 ---
 title: "Join Our Lab!"
-format:
-  html: 
-    theme: sketchy
 ---
 ## Are you an early career researcher?
 

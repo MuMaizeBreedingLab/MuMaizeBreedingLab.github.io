@@ -1,8 +1,5 @@
 ---
 title: "Publications"
-format:
-  html: 
-    theme: sketchy
 ---
 
 ## 2024
