@@ -4,5 +4,5 @@ format: html
 ---
 
 ```{=html}
-<iframe width="780" height="500" src="https://docs.google.com/forms/d/e/1FAIpQLSfdwD3kwMnNPVtpw89D9OK7t_NevcwpPc0xfmRJxZy-1Shp7Q/viewform?usp=header" title="contact us"></iframe>
+<iframe width="780" height="500" src="https://docs.google.com/forms/d/e/1FAIpQLSfdwD3kwMnNPVtpw89D9OK7t_NevcwpPc0xfmRJxZy-1Shp7Q/preview?usp=header" title="contact us"></iframe>
 ```
