@@ -18,6 +18,8 @@ website:
       href: join.qmd
     - text: "Publications"
       href: publications.qmd
+    - text: "Contact us"
+      href: contact.qmd
 
 format:
   html:
