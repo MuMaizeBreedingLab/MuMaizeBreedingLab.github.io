@@ -2,17 +2,12 @@
 title: "Contact us"
 format: html
 ---
-
-```{r}
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%
-  addMarkers(lng=-75.75121, lat=39.66687, popup="Mu Lab")
-```
-
-
 ::: {.column-margin}
 ```{=html}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdwD3kwMnNPVtpw89D9OK7t_NevcwpPc0xfmRJxZy-1Shp7Q/viewform?embedded=true" width="250" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ```
+:::
+
+::: {.column-margin}
+test content
 :::
