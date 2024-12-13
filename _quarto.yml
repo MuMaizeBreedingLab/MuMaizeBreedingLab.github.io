@@ -23,6 +23,7 @@ website:
 
 format:
   html:
+    mainfont: Roboto
     theme: custom.scss
     css: styles.css
     toc: true
