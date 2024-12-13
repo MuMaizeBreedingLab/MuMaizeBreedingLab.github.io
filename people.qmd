@@ -7,11 +7,13 @@ title: "People"
 Dr. Qi Mu
 (contact details)
 
-## Current Lab Members
+## Field Technician
 - Teclemariam (Tecle) Weldekidan, Research Scientist
+
+## Current Lab Members
 - Jeonghwa Kim, Post Doc
 - Shreejana KC, graduate student (PhD)
-- Manoj Subedi, graduate student (PhD)
 - Joseph Romano, undegraduate student
 - Tyler Sosnoski, undergraduate student
+- Manoj Subedi, research intern
 
