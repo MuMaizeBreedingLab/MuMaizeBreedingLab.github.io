@@ -14,11 +14,18 @@
     "text": "Dr. Qi Mu (contact details)"
   },
   {
+    "objectID": "people.html#field-technician",
+    "href": "people.html#field-technician",
+    "title": "People",
+    "section": "Field Technician",
+    "text": "Field Technician\n\nTeclemariam (Tecle) Weldekidan, Research Scientist"
+  },
+  {
     "objectID": "people.html#current-lab-members",
     "href": "people.html#current-lab-members",
     "title": "People",
     "section": "Current Lab Members",
-    "text": "Current Lab Members\n\nTeclemariam (Tecle) Weldekidan, Research Scientist\nJeonghwa Kim, Post Doc\nShreejana KC, graduate student (PhD)\nManoj Subedi, graduate student (PhD)\nJoseph Romano, undegraduate student\nTyler Sosnoski, undergraduate student"
+    "text": "Current Lab Members\n\nJeonghwa Kim, Post Doc\nShreejana KC, graduate student (PhD)\nJoseph Romano, undegraduate student\nTyler Sosnoski, undergraduate student\nManoj Subedi, research intern"
   },
   {
     "objectID": "join.html#are-you-interested-in-graduate-studies",
@@ -79,8 +86,15 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact us",
+    "title": "Location",
     "section": "",
-    "text": "Loading…\n\nWorrilow Hall (314)\n529 S College Ave, Newark, DE 19716"
+    "text": "Worrilow Hall (314)\n529 S College Ave, Newark, DE 19716"
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Location",
+    "section": "",
+    "text": "Worrilow Hall (314)\n529 S College Ave, Newark, DE 19716"
   }
 ]
