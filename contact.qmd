@@ -1,13 +1,19 @@
 ---
 title: "Contact us"
-format: html
+format:
+  html:
+    grid:
+      margin-width: 400px
 ---
-::: {.column-margin}
+
 ```{=html}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdwD3kwMnNPVtpw89D9OK7t_NevcwpPc0xfmRJxZy-1Shp7Q/viewform?embedded=true" width="250" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3111.2233183388776!2d-75.75268002355654!3d39.66696623801825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c7a9867b0d6cf7%3A0xa8c47c6f778bb7e7!2sWorrilow%20Hall%2C%20529%20S%20College%20Ave%2C%20Newark%2C%20DE%2019716!5e1!3m2!1sen!2sus!4v1734060680898!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ```
-:::
+Worrilow Hall (314)
+529 S College Ave, Newark, DE 19716
 
 ::: {.column-margin}
-test content
+```{=html}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdwD3kwMnNPVtpw89D9OK7t_NevcwpPc0xfmRJxZy-1Shp7Q/viewform?embedded=true" width="350" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+```
 :::
