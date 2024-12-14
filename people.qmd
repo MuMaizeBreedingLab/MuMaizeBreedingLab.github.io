@@ -4,8 +4,8 @@ title: "People"
 
 ## Principle Investigator
 
-Dr. Qi Mu
-Townsend hall
+Dr. Qi Mu\
+Townsend hall\
 (contact details)
 
 ## Field Technician
@@ -17,4 +17,10 @@ Townsend hall
 - Joseph Romano, undegraduate student
 - Tyler Sosnoski, undergraduate student
 - Manoj Subedi, research intern
+
+| Name | Title |  |
+|--|--|-----|
+| Manoj Subedi | Research Intern  | ![manoj](/images/Manoj Subedi.jpg){ width=50% } |
+| Jeonghwa Kim | Post-Doctoral Researcher | |
+
 
